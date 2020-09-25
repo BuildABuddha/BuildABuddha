@@ -4,7 +4,7 @@
 
 ### Well hello there.
 
-My name is lawrence, and I'm a software engineer and data scientist.
+My name is Lawrence, and I'm a software engineer and data scientist.
 
 - I got my name from playing a lot of the character "Zenyatta" in the game Overwatch. Being both a Buddhist and a lover of robotics, he's the perfect match for me. 
 - I’m currently working on filling out my portfolio a bit more with projects. Keep an eye here if you want to see what I end up doing.
