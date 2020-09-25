@@ -12,6 +12,7 @@ My name is Lawrence, and I'm a software engineer and data scientist.
 - I was trained in the ways of Data Science at Lambda School. This is where a lot of my portfolio pieces come from. 
 - I have worked in many langagues: Python, Java, C, C#, C++, Matlab, Ada, Lua, SQL... I might be forgetting one or two, as well. 
 - Python is my favorite language, and my go-to for personal projects, but I have no hesitation using/learning whatever language asked of me. 
+- I also like to make game mods. Some of my projects on here will be related to that. 
 
 <!--
 **BuildABuddha/BuildABuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
